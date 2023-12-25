@@ -1,0 +1,8 @@
+selenium
+requests
+undetected-chromedriver==3.1.7
+selenium-stealth
+random-password-generator
+Faker
+lxml
+fake-headers
